@@ -279,8 +279,9 @@
   "dependencies": {
     "lodash": "^4.17.19",
     "svelte-language-server": "^0.12.5",
-    "vscode-languageserver-protocol": "^3.15.3",
-    "typescript": "^3.9.5"
+    "svelte2tsx": "*",
+    "typescript": "^3.9.5",
+    "vscode-languageserver-protocol": "^3.15.3"
   },
   "devDependencies": {
     "@tsconfig/node12": "^1.0.0",
