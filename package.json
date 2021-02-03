@@ -278,8 +278,8 @@
   },
   "dependencies": {
     "lodash": "^4.17.19",
-    "svelte-language-server": "^0.12.5",
-    "svelte2tsx": "*",
+    "svelte-language-server": "^0.12.6",
+    "svelte2tsx": "^0.1.166",
     "typescript": "^3.9.5",
     "vscode-languageserver-protocol": "^3.15.3"
   },
