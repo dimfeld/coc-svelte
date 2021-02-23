@@ -1435,10 +1435,10 @@ svelte-check@^1.1.35:
     svelte-preprocess "^4.0.0"
     typescript "*"
 
-svelte-language-server@^0.12.12:
-  version "0.12.12"
-  resolved "https://registry.yarnpkg.com/svelte-language-server/-/svelte-language-server-0.12.12.tgz#48ec5cac80b29b5b38fff872ea1469e5fb467a5e"
-  integrity sha512-uectgXL/mD3cqHYLaoMlWXlC3uwQj55IAQXzLhtvdwVEj/A9mBl8vko5LOEt66sjzRppq4RTFYes0bP5fBS82A==
+svelte-language-server@^0.12.14:
+  version "0.12.14"
+  resolved "https://registry.yarnpkg.com/svelte-language-server/-/svelte-language-server-0.12.14.tgz#6439eeeaf18d37004d24c6e6ad279392379ec627"
+  integrity sha512-pf569M9VeeyyPrRbmmQlndYO2nr8/Q2OMC1TlrCf7SBzqyqkCV1XirRRX5w2/RVq+T5tJC6k2tKTrNyhVF1mqQ==
   dependencies:
     chokidar "^3.4.1"
     cosmiconfig "^7.0.0"
@@ -1468,10 +1468,10 @@ svelte-preprocess@^4.0.0, svelte-preprocess@^4.6.9, svelte-preprocess@~4.6.1:
     detect-indent "^6.0.0"
     strip-indent "^3.0.0"
 
-svelte2tsx@*, svelte2tsx@^0.1.172:
-  version "0.1.172"
-  resolved "https://registry.yarnpkg.com/svelte2tsx/-/svelte2tsx-0.1.172.tgz#dc7ee99c9da5dd8c1276e14e54e20304d5a5ad50"
-  integrity sha512-UoPdMrEXyFBtRPcCcPBJGMJ/a+41upZ9Jyyan3ipxWfSeahw8ze0flGgpfzmsdR7RbK+zJ6y9mG+opgXPFUDWw==
+svelte2tsx@*, svelte2tsx@^0.1.174:
+  version "0.1.174"
+  resolved "https://registry.yarnpkg.com/svelte2tsx/-/svelte2tsx-0.1.174.tgz#85f27a03fa06ce043a9f3aa8603528ce92a277a0"
+  integrity sha512-+sOMKaiUw7GADDyg5rhQWi6ajL0LWytZbwRwyH62WP6OTjXGIM8/J9mOCA3uHA9dDI39OsmprcgfhUQp8ymekg==
   dependencies:
     dedent-js "^1.0.1"
     pascal-case "^3.1.1"
