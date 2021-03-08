@@ -1421,10 +1421,10 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte-check@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-1.2.1.tgz#def469e21d7e1aa1df365a07b64d1b937a8df96c"
-  integrity sha512-xxTT60sqarAu+9qfQCUy6jnukkdKK5mMzC1f1mRO2jbeMpXjbWfpXY+Fa7qoLF30ONblw+dGhujve34MHZD63w==
+svelte-check@^1.2.3:
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-1.2.3.tgz#bf39879f8cecd380a8f75553d169335cc9395497"
+  integrity sha512-EAuxtwjpTL2K7MHCDKUtt8YeDhM8sf8ZHTdODfE7yYb53nDD8u+p5I5Ub77VPSqgHUlaJh66ieB14rrLeA9YxA==
   dependencies:
     chalk "^4.0.0"
     chokidar "^3.4.1"
@@ -1435,10 +1435,10 @@ svelte-check@^1.2.1:
     svelte-preprocess "^4.0.0"
     typescript "*"
 
-svelte-language-server@^0.12.18:
-  version "0.12.18"
-  resolved "https://registry.yarnpkg.com/svelte-language-server/-/svelte-language-server-0.12.18.tgz#fd11555fc022a95676f025aea6c58d04155a6bea"
-  integrity sha512-x0UmFgcdiQwh8vpKRx/l4EIlG7UUqEjsu59t9sauALaU+fzVWYO/ADPpK+HRH4y+W5u07eEIx0MPrnCG5Djjxw==
+svelte-language-server@^0.12.19:
+  version "0.12.19"
+  resolved "https://registry.yarnpkg.com/svelte-language-server/-/svelte-language-server-0.12.19.tgz#591f3aad8879407bce0349708d29a2116aba9929"
+  integrity sha512-u4f5Zn1UvOTeNSTH83z/v8fifhU+kNEpbMff07kMkZFBFxTXdMEh2/qS9VFjJu/0Ala646HnapgZgnakVvnZuQ==
   dependencies:
     chokidar "^3.4.1"
     cosmiconfig "^7.0.0"
@@ -1468,10 +1468,10 @@ svelte-preprocess@^4.0.0, svelte-preprocess@^4.6.9, svelte-preprocess@~4.6.1:
     detect-indent "^6.0.0"
     strip-indent "^3.0.0"
 
-svelte2tsx@*, svelte2tsx@^0.1.178:
-  version "0.1.178"
-  resolved "https://registry.yarnpkg.com/svelte2tsx/-/svelte2tsx-0.1.178.tgz#d8c6b8bd0137777a5d1c43580576037b6ec8b0a0"
-  integrity sha512-zfIFE+H5ndEBJ5CLTB3xJyUu/vwezThv1k9DvYFiIE7s9oNq4S1uxpqOU43n/KJKADA/nvk61O3H8ADSj7cLQQ==
+svelte2tsx@*, svelte2tsx@^0.1.179:
+  version "0.1.179"
+  resolved "https://registry.yarnpkg.com/svelte2tsx/-/svelte2tsx-0.1.179.tgz#24013868dbb5756a5765166281f5eea344ea6d61"
+  integrity sha512-tfSRUuUziFPcD2w6fIfu9ybpkV2M7HQgmcelcdCC0bKVqR+pm6kdmIyo6L5kwR3IRjhq03DekkpVer1uXxTZ9A==
   dependencies:
     dedent-js "^1.0.1"
     pascal-case "^3.1.1"
